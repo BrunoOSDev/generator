@@ -30,4 +30,4 @@ O Generator é, inicialmente um gerador de senhas online, com a possibilidade de
 
 ---
 
-Feito com ♥ by Bruno Oliveira :wave: [Descubra o conteúdo por trás da inspiração!](https://discord.gg/rocketseat)
+Feito com ♥ by Bruno Oliveira :wave: [Descubra a inspiração para esse projeto!](https://www.youtube.com/watch?v=i6t2jaRxos4)
